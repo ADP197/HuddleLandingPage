@@ -29,6 +29,7 @@ header{
     flex-direction: column;
     
     height:100%;
+    width:100%;
    
   
 }
@@ -86,6 +87,7 @@ P{
     gap: 10px;
     margin-right:60px;
     padding-bottom: 50px;
+    width:1500px;
 }
 
 .smicons{
